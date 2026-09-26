@@ -1,0 +1,16 @@
+{
+    "version_actual": "1.0.0",
+    "licencias": {
+        "AQUI_PEGARAS_TU_HWID": {
+            "cliente": "Restaurante Mi Negocio (Demo)",
+            "activo": true,
+            "modulos": {
+                "salon": true,
+                "caja": true,
+                "inventario": true,
+                "recetario": true,
+                "servidor_web": true
+            }
+        }
+    }
+}
