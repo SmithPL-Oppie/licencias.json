@@ -1,16 +1,18 @@
 {
-    "version_actual": "1.0.0",
-    "licencias": {
-        "HWID-GENERIC-KEY-001": {
-            "cliente": "Restaurante Mi Negocio (Demo)",
-            "activo": true,
-            "modulos": {
-                "salon": true,
-                "caja": true,
-                "inventario": true,
-                "recetario": true,
-                "servidor_web": true
-            }
-        }
+  "version_servidor": "1.0.1",
+  "url_download": "https://github.com/TU_USUARIO/TU_REPOSITO/releases/download/v1.0.1/update.zip",
+  "licencias": [
+    {
+      "hwid": "HWID-GENERIC-KEY-001",
+      "cliente": "Restaurante Mi Negocio (Demo)",
+      "activa": true,
+      "modulos": {
+        "salon": true,
+        "caja": true,
+        "inventario": true,
+        "recetario": true,
+        "servidor_web": true
+      }
     }
+  ]
 }
