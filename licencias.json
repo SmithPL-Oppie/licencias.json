@@ -1,18 +1,30 @@
 {
-  "version_servidor": "1.0.1",
-  "url_download": "https://github.com/SmithPL-Oppie/licencias.json/releases/download/v1.0.1/update.zip",
-  "licencias": [
-    {
-      "hwid": "03FF0210-04E0-0536-DB06-B20700080009",
-      "cliente": "PC Desarrollo - Simon",
-      "activa": true,
-      "modulos": {
-        "salon": true,
-        "caja": true,
-        "inventario": true,
-        "recetario": true,
-        "servidor_web": true
-      }
-    }
-  ]
+    "version_servidor": "1.0.1",
+    "url_download": "https://github.com/SmithPL-Oppie/licencias.json/releases/download/v1.0.1/update.zip",
+    "licencias": [
+        {
+            "hwid": "03FF0210-04E0-0536-DB06-B20700080009",
+            "cliente": "PC Desarrollo - Simon",
+            "activa": true,
+            "modulos": {
+                "salon": true,
+                "caja": true,
+                "inventario": true,
+                "recetario": true,
+                "servidor_web": true
+            }
+        },
+        {
+            "hwid": "0DF538EB-945E-47D0-B775-412C36A5450D",
+            "cliente": "PC Cliente Pruebas - VirtualBox",
+            "activa": true,
+            "modulos": {
+                "salon": true,
+                "caja": true,
+                "inventario": true,
+                "recetario": true,
+                "servidor_web": true
+            }
+        }
+    ]
 }
