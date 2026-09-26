@@ -3,7 +3,7 @@
   "url_download": "https://github.com/SmithPL-Oppie/licencias.json/releases/download/v1.0.1/update.zip",
   "licencias": [
     {
-      "hwid": "HWID-GENERIC-KEY-001",
+      "hwid": "03FF0210-04E0-0536-DB06-B20700080009",
       "cliente": "Restaurante Mi Negocio (Demo)",
       "activa": true,
       "modulos": {
