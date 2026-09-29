@@ -31,11 +31,11 @@
             "cliente": "PC Cliente 2 _ VIRTUAL BOX",
             "activa": true,
             "modulos": {
-                "salon": true,
-                "caja": true,
+                "salon": false,
+                "caja": false,
                 "inventario": true,
-                "recetario": true,
-                "servidor_web": true
+                "recetario": false,
+                "servidor_web": false
             }
         }
     ]
